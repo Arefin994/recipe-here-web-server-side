@@ -1,0 +1,112 @@
+{
+    "featuredJobs": [
+      {
+        "id": "1",
+        "title": "Software Engineer",
+        "company": "Google",
+        "logoUrl": "https://www.pngall.com/wp-content/uploads/5/Google-Logo-PNG-Free-Image.png",
+        "address": "Mountain View, CA 94043, USA",
+        "salary": "$150,000 - $200,000",
+        "description": "We are looking for a talented and experienced software engineer to join our team. The ideal candidate will have a strong background in computer science and a passion for creating innovative software solutions.",
+        "responsibility": "Develop and maintain high-quality software using industry-standard tools and technologies.",
+        "experience": "5+ years of experience in software development.",
+        "education": "Master's degree or PhD in Computer Science, Statistics, Mathematics or related field",
+        "time": "Part-time",
+        "ot": "Remote",
+        "contact": {
+          "phone": "555-1234",
+          "email": "hr@google.com"
+        }
+      },
+      {
+        "id": "2",
+        "title": "Product Manager",
+        "company": "Netflix",
+        "logoUrl": "https://logowik.com/content/uploads/images/750_netflix.jpg",
+        "address": "Los Gatos, CA, USA",
+        "salary": "$180,000 - $250,000",
+        "description": "We are seeking a talented and experienced product manager to help us build the next generation of streaming entertainment products. The ideal candidate will be able to navigate complex product development challenges and drive projects from ideation to launch.",
+        "responsibility": "Lead cross-functional teams to deliver high-quality products on time and within budget.",
+        "experience": "7+ years of experience in product management or related field.",
+        "education": "Bachelor's degree in Computer Science or related field",
+        "time": "Part-time",
+        "ot": "Onsite",
+        "contact": {
+          "phone": "555-5678",
+          "email": "hr@netflix.com"
+        }
+      },
+      {
+        "id": "3",
+        "title": "Data Scientist",
+        "company": "Facebook",
+        "logoUrl": "https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/social-media/facebook-logo.png",
+        "address": "1 Hacker Way, Menlo Park, CA 94025, USA",
+        "salary": "$170,000 - $220,000",
+        "description": "We are looking for a data scientist to help us extract insights from complex data sets. The ideal candidate will have a strong background in statistics and machine learning, and experience applying these skills to real-world problems.",
+        "responsibility": "Use statistical and machine learning techniques to extract insights from complex data sets.",
+        "experience": "3+ years of experience in data science or related field.",
+        "education": "PhD in Computer Science",
+        "time": "Part-time",
+        "ot": "Remote",
+        "contact": {
+          "phone": "555-9012",
+          "email": "hr@facebook.com"
+        }
+      },
+      {
+        "id": "4",
+        "title": "Software Development Engineer",
+        "company": "Amazon",
+        "logoUrl": "https://thumbs.dreamstime.com/b/simple-vector-filled-flat-amazon-icon-logo-solid-black-pictogram-isolated-white-background-amazon-logo-159029074.jpg",
+        "address": "Seattle, WA, USA",
+        "salary": "$160,000 - $220,000",
+        "description": "We are seeking a talented and motivated software development engineer to join our team. The ideal candidate will have a strong background in computer science and experience building scalable, reliable software systems.",
+        "responsibility": "Design and implement scalable software systems using industry-standard tools and technologies.",
+        "experience": "5+ years of experience in software development.",
+        "education": "Cse Degree",
+        "time": "Part-time",
+        "ot": "Remote",
+        "contact": {
+          "phone": "555-3456",
+          "email": "jobs@amazon.com"
+        }
+      },
+      {
+        "id": "5",
+        "title": "UI/UX Designer",
+        "company": "Apple",
+        "logoUrl": "https://www.apple.com/ac/structured-data/images/open_graph_logo.png?202110180743",
+        "address": "Cupertino, CA, USA",
+        "salary": "$120,000 - $160,000",
+        "description": "We are looking for a talented UI/UX designer to join our team. The ideal candidate will have a strong background in design and a passion for creating beautiful and intuitive user interfaces.",
+        "responsibility": "Design and implement beautiful and intuitive user interfaces for our products.",
+        "experience": "3+ years of experience in UI/UX design or related field.",
+        "education": "Bachelor's degree in Design or related field",
+        "time": "Full-time",
+        "ot": "Onsite",
+        "contact": {
+          "phone": "555-6789",
+          "email": "hr@apple.com"
+        }
+      },
+      {
+        "id": "6",
+        "title": "Marketing Manager",
+        "company": "Microsoft",
+        "logoUrl": "https://1000logos.net/wp-content/uploads/2017/04/Microsoft-logo.jpg",
+        "address": "Redmond, WA, USA",
+        "salary": "$150,000 - $200,000",
+        "description": "We are seeking a talented and experienced marketing manager to help us drive growth and engagement for our products. The ideal candidate will have a strong background in marketing and a proven track record of success.",
+        "responsibility": "Develop and execute marketing strategies to drive growth and engagement for our products.",
+        "experience": "7+ years of experience in marketing or related field.",
+        "education": "Bachelor's degree in Marketing or related field",
+        "time": "Full-time",
+        "ot": "Onsite",
+        "contact": {
+          "phone": "555-2345",
+          "email": "hr@microsoft.com"
+        }
+      }
+    ]
+  }
