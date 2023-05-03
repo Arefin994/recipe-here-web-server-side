@@ -6,37 +6,40 @@
             "experience": 10,
             "recipes": [
                 {
-                    "name": "Spaghetti Bolognese",
+                    "name": "Udon Noodle Stir Fry",
+                    "image": "https://www.ourhappymess.com/wp-content/uploads/2022/01/Udon-Stir-Fry-Featured-Image-scaled.jpg",
                     "ingredients": [
-                        "500g spaghetti",
-                        "500g minced beef",
+                        "500g udon noodles",
+                        "500g sliced beef",
                         "1 onion",
                         "2 cloves garlic",
-                        "1 can chopped tomatoes",
-                        "1 tbsp tomato puree",
-                        "1 tsp dried oregano",
-                        "1 tsp dried basil",
+                        "1 red bell pepper",
+                        "1 green bell pepper",
+                        "1 tbsp soy sauce",
+                        "1 tbsp oyster sauce",
+                        "1 tsp sesame oil",
                         "Salt and pepper to taste"
                     ],
-                    "method": "1. Cook spaghetti according to package instructions. \n2. In a separate pan, brown the minced beef over medium heat. \n3. Add the onion and garlic and cook until softened. \n4. Add the chopped tomatoes, tomato puree, oregano, basil, salt and pepper. \n5. Simmer for 20 minutes. \n6. Serve the sauce over the cooked spaghetti.",
-                    "rating": 4.5,
+                    "method": "1. Cook udon noodles according to package instructions. \n2. In a wok or large pan, heat sesame oil over high heat. \n3. Add sliced beef and cook until browned. \n4. Add onion, garlic, and bell peppers and stir fry for 2-3 minutes. \n5. Add soy sauce, oyster sauce, salt, and pepper. \n6. Add cooked udon noodles and stir fry for another 2-3 minutes. \n7. Serve hot.",
+                    "rating": 4.7,
                     "favourite": true
                 },
                 {
-                    "name": "Chicken Curry",
+                    "name": "Teriyaki Salmon",
+                    "image": "https://www.dinneratthezoo.com/wp-content/uploads/2016/04/salmon-teriyaki-11-500x500.jpg",
                     "ingredients": [
-                        "500g chicken breast",
-                        "1 onion",
-                        "2 cloves garlic",
-                        "1 can coconut milk",
-                        "2 tbsp curry powder",
-                        "1 tsp cumin",
-                        "1 tsp coriander",
-                        "Salt and pepper to taste"
+                        "4 salmon fillets",
+                        "1/4 cup soy sauce",
+                        "1/4 cup mirin",
+                        "1/4 cup sake",
+                        "2 tbsp brown sugar",
+                        "1 tbsp grated ginger",
+                        "1 clove garlic, minced",
+                        "1 tbsp vegetable oil"
                     ],
-                    "method": "1. Cut the chicken into bite-sized pieces. \n2. In a pan, brown the chicken over medium heat. \n3. Add the onion and garlic and cook until softened. \n4. Add the coconut milk, curry powder, cumin, coriander, salt and pepper. \n5. Simmer for 20 minutes. \n6. Serve with rice.",
-                    "rating": 4.2,
-                    "favourite": false
+                    "method": "1. In a small bowl, whisk together soy sauce, mirin, sake, brown sugar, ginger, and garlic. \n2. Heat vegetable oil in a large pan over medium-high heat. \n3. Add salmon fillets and cook for 2-3 minutes on each side. \n4. Pour the teriyaki sauce over the salmon and continue cooking for another 2-3 minutes, until the sauce thickens and the salmon is cooked through. \n5. Serve hot with steamed rice and vegetables.",
+                    "rating": 4.9,
+                    "favourite": true
                 }
             ],
             "likes": 100
@@ -55,7 +58,7 @@
                     ],
                     "method": "1. Cook pasta according to package instructions. \n2. Drain the pasta and return it to the pot. \n3. Add the pesto sauce and parmesan cheese. \n4. Stir until the pasta is coated in the sauce. \n5. Serve hot.",
                     "rating": 4.8,
-                    "favourite": true
+                    "favourite": false
                 },
                 {
                     "name": "Beef Stew",
@@ -95,7 +98,7 @@
                     ],
                     "method": "1. Preheat the oven to 200°C. \n2. Cut one lemon in half and stuff it inside the chicken. \n3. Cut the other lemon into slices and place them around the chicken. \n4. Crush the garlic cloves and mix them with the thyme, rosemary, salt and pepper. \n5. Rub the mixture all over the chicken.\n. Roast the chicken for 1 hour and 30 minutes or until the juices run clear. \n7. Let the chicken rest for 10 minutes before carving. \n8. Serve hot.",
                     "rating": 4.7,
-                    "favourite": true
+                    "favourite": false
                 },
                 {
                     "name": "Vegetable Stir Fry",
@@ -138,7 +141,7 @@
                     ],
                     "method": "1. In a bowl, mix together the minced beef, onion, egg, breadcrumbs, salt and pepper. \n2. Divide the mixture into 4 equal portions and shape them into patties. \n3. Heat a grill or frying pan over medium-high heat. \n4. Cook the patties for 3-4 minutes on each side, or until cooked to your liking. \n5. Toast the burger buns and place a slice of cheese on each patty. \n6. Assemble the burgers with lettuce, tomato, and condiments of your choice. \n7. Serve hot.",
                     "rating": 4.6,
-                    "favourite": true
+                    "favourite": false
                 },
                 {
                     "name": "Fish Tacos",
@@ -199,7 +202,7 @@
                     ],
                     "method": "1. Preheat the oven to 180°C. \n2. In a bowl, cream together the butter and sugar until light and fluffy. \n3. Beat in the eggs one at a time, then stir in the vanilla extract. \n4. In a separate bowl, whisk together the cocoa powder, flour, salt and baking powder. \n5. Gradually add the dry ingredients to the butter mixture, stirring until well combined. \n6. Pour the batter into a greased baking dish. \n7. Bake for 25-30 minutes, or until a toothpick inserted into the center comes out clean. \n8. Let the brownies cool before cutting into squares. \n9. Serve and enjoy!",
                     "rating": 4.5,
-                    "favourite": true
+                    "favourite": false
                 }
             ],
             "likes": 70
@@ -226,7 +229,7 @@
                     ],
                     "method": "1. Cut the beef into thin strips. \n2. Slice the peppers and onion. \n3. In a bowl, mix together the soy sauce, honey, cornstarch, ginger powder, salt, and pepper. \n4. In a wok or large skillet, heat some oil over high heat. \n5. Add the beef and stir-fry for 2-3 minutes until browned. \n6. Add the garlic and stir-fry for another minute. \n7. Add the peppers and onion and stir-fry for 2-3 minutes until tender. \n8. Pour in the soy sauce mixture and stir-fry for another minute until the sauce thickens. \n9. Serve over rice.",
                     "rating": 4.7,
-                    "favourite": true
+                    "favourite": false
                 },
                 {
                     "name": "Creamy Mushroom Pasta",
