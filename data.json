@@ -22,7 +22,7 @@
                     ],
                     "method": "1. Cook udon noodles according to package instructions. \n2. In a wok or large pan, heat sesame oil over high heat. \n3. Add sliced beef and cook until browned. \n4. Add onion, garlic, and bell peppers and stir fry for 2-3 minutes. \n5. Add soy sauce, oyster sauce, salt, and pepper. \n6. Add cooked udon noodles and stir fry for another 2-3 minutes. \n7. Serve hot.",
                     "rating": 4.7,
-                    "favourite": true
+                    "favourite": false
                 },
                 {
                     "name": "Teriyaki Salmon",
@@ -50,32 +50,66 @@
             "experience": 8,
             "recipes": [
                 {
-                    "name": "Pesto Pasta",
+                    "name": "Beef Sukiyaki",
+                    "image": "https://www.hairybikers.com/uploads/images/_recipeImage/BeefSukiyaki.jpg",
                     "ingredients": [
-                        "500g pasta",
-                        "1 jar pesto sauce",
-                        "1/2 cup grated parmesan cheese"
+                        "1 lb thinly sliced beef",
+                        "1/2 cup soy sauce",
+                        "1/2 cup mirin",
+                        "1/4 cup sake",
+                        "2 tbsp sugar",
+                        "1 onion, sliced",
+                        "1 bunch scallions, cut into 2-inch pieces",
+                        "1/2 lb shiitake mushrooms, stems removed",
+                        "1 block firm tofu, cubed",
+                        "1 bunch spinach, washed and trimmed",
+                        "1/4 cup water",
+                        "2 tbsp vegetable oil"
                     ],
-                    "method": "1. Cook pasta according to package instructions. \n2. Drain the pasta and return it to the pot. \n3. Add the pesto sauce and parmesan cheese. \n4. Stir until the pasta is coated in the sauce. \n5. Serve hot.",
+                    "method": "1. In a small bowl, whisk together soy sauce, mirin, sake, and sugar. \n2. Heat vegetable oil in a large pan over medium-high heat. \n3. Add beef and cook for 2-3 minutes, until browned. \n4. Add onion, scallions, and shiitake mushrooms and cook for another 2-3 minutes. \n5. Add the soy sauce mixture and water and bring to a boil. \n6. Reduce heat to low and add tofu and spinach. \n7. Simmer for 5-7 minutes, until the vegetables are tender and the sauce has thickened. \n8. Serve hot with steamed rice.",
                     "rating": 4.8,
+                    "favourite": true
+                },
+                {
+                    "name": "Matcha Cheesecake",
+                    "image": "https://theunlikelybaker.com/wp-content/uploads/2021/07/Matcha-Cheesecake-Recipe-Feature.jpg",
+                    "ingredients": [
+                        "1 1/2 cups graham cracker crumbs",
+                        "1/4 cup sugar",
+                        "1/2 cup unsalted butter, melted",
+                        "3 packages cream cheese, softened",
+                        "1 cup sugar",
+                        "3 eggs",
+                        "1/2 cup sour cream",
+                        "1/4 cup matcha powder",
+                        "1 tsp vanilla extract"
+                    ],
+                    "method": "1. Preheat oven to 325°F. \n2. In a bowl, mix together graham cracker crumbs, sugar, and melted butter. \n3. Press the mixture into the bottom of a 9-inch springform pan. \n4. In a large bowl, beat cream cheese and sugar until smooth. \n5. Add eggs one at a time, beating well after each addition. \n6. Stir in sour cream, matcha powder, and vanilla extract. \n7. Pour the mixture over the crust. \n8. Bake for 45-50 minutes, until the cheesecake is set but still slightly jiggly in the center. \n9. Let cool to room temperature, then chill in the refrigerator for at least 2 hours before serving.",
+                    "rating": 4.7,
                     "favourite": false
                 },
                 {
-                    "name": "Beef Stew",
+                    "name": "Shrimp Tempura Udon",
+                    "image": "https://sudachirecipes.com/wp-content/uploads/2022/05/ebiten-udon-sq.jpg",
                     "ingredients": [
-                        "500g stewing beef",
-                        "2 onions",
-                        "4 carrots",
-                        "4 potatoes",
-                        "2 cloves garlic",
-                        "1 can chopped tomatoes",
-                        "1 tbsp tomato puree",
-                        "1 tsp dried thyme",
-                        "1 tsp dried rosemary",
-                        "Salt and pepper to taste"
+                        "4 cups dashi stock",
+                        "1/2 cup soy sauce",
+                        "1/4 cup mirin",
+                        "1/4 cup sake",
+                        "2 tbsp sugar",
+                        "1 tbsp grated ginger",
+                        "1 clove garlic, minced",
+                        "1/2 lb udon noodles",
+                        "8 large shrimp, peeled and deveined",
+                        "1/2 cup all-purpose flour",
+                        "1/2 cup cornstarch",
+                        "1 tsp baking powder",
+                        "1/2 tsp salt",
+                        "1 cup ice-cold water",
+                        "Vegetable oil for frying"
                     ],
-                    "method": "1. Cut the beef into bite-sized pieces. \n2. In a pot, brown the beef over medium heat. \n3. Add the onion and garlic and cook until softened. \n4. Add the chopped tomatoes, tomato puree, thyme, rosemary, salt and pepper. \n5. Add enough water to cover the ingredients. \n6. Simmer for 2 hours. \n7. Add the carrots and potatoes and simmer for another hour. \n8. Serve hot.",
-                    "rating": 4.3,
+                    "method": "1. In a pot, bring dashi stock to a boil. \n2. Reduce heat to low and add soy sauce, mirin, sake, sugar, ginger, and garlic. \n3. Cook udon noodles according to package instructions. \n4. In a bowl, whisk together flour, cornstarch, baking powder, and salt. \n5. Add ice-cold water and whisk until smooth. \n6. Heat vegetable oil in a deep fryer or large pot to 375°F. \n7. Dip shrimp in batter and fry in batches until golden brown, about 2-3 minutes. \n8. Drain on paper towels. \n9. Divide cooked udon noodles among four bowls. \n10. Pour the hot broth over the noodles and top with shrimp tempura. \n11. Serve hot.",
+                    "rating": 4.9,
                     "favourite": false
                 }
             ],
@@ -87,35 +121,46 @@
             "experience": 12,
             "recipes": [
                 {
-                    "name": "Roast Chicken",
+                    "name": "Miso Soup",
+                    "image": "https://assets.bonappetit.com/photos/58a6240fa9bc8a7a3f1cfada/1:1/w_3332,h_3332,c_limit/classic-miso-soup.jpg",
                     "ingredients": [
-                        "1 whole chicken",
-                        "2 lemons",
-                        "4 cloves garlic",
-                        "1 tbsp dried thyme",
-                        "1 tbsp dried rosemary",
-                        "Salt and pepper to taste"
+                        "4 cups dashi stock",
+                        "1/2 cup miso paste",
+                        "1/2 block tofu, cubed",
+                        "2 green onions, sliced",
+                        "1 sheet nori, cut into small pieces"
                     ],
-                    "method": "1. Preheat the oven to 200°C. \n2. Cut one lemon in half and stuff it inside the chicken. \n3. Cut the other lemon into slices and place them around the chicken. \n4. Crush the garlic cloves and mix them with the thyme, rosemary, salt and pepper. \n5. Rub the mixture all over the chicken.\n. Roast the chicken for 1 hour and 30 minutes or until the juices run clear. \n7. Let the chicken rest for 10 minutes before carving. \n8. Serve hot.",
-                    "rating": 4.7,
+                    "method": "1. In a pot, bring dashi stock to a boil. \n2. Reduce heat to low and add miso paste, stirring until dissolved. \n3. Add tofu and cook for 2-3 minutes. \n4. Add green onions and nori and cook for another minute. \n5. Serve hot.",
+                    "rating": 4.5,
                     "favourite": false
                 },
                 {
-                    "name": "Vegetable Stir Fry",
+                    "name": "Tempura Shrimp",
+                    "image": "https://thedefaultcook.com/wp-content/uploads/2022/08/IMG_7429-2.jpg",
                     "ingredients": [
-                        "1 red pepper",
-                        "1 yellow pepper",
-                        "1 green pepper",
-                        "1 onion",
-                        "2 cloves garlic",
-                        "1 tbsp soy sauce",
-                        "1 tbsp oyster sauce",
-                        "1 tsp cornstarch",
-                        "1/2 cup water",
-                        "Salt and pepper to taste"
+                        "1 lb large shrimp, peeled and deveined",
+                        "1 cup all-purpose flour",
+                        "1/2 cup cornstarch",
+                        "1 tsp baking powder",
+                        "1/2 tsp salt",
+                        "1 cup ice-cold water",
+                        "Vegetable oil for frying"
                     ],
-                    "method": "1. Cut the peppers and onion into thin strips. \n2. Crush the garlic cloves. \n3. In a pan, heat some oil over high heat. \n4. Add the peppers, onion and garlic and stir fry for 2-3 minutes. \n5. In a small bowl, mix together the soy sauce, oyster sauce, cornstarch, water, salt and pepper. \n6. Add the sauce to the pan and stir fry for another 2-3 minutes. \n7. Serve hot with rice.",
-                    "rating": 4.1,
+                    "method": "1. In a bowl, whisk together flour, cornstarch, baking powder, and salt. \n2. Add ice-cold water and whisk until smooth. \n3. Heat vegetable oil in a deep fryer or large pot to 375°F. \n4. Dip shrimp in batter and fry in batches until golden brown, about 2-3 minutes. \n5. Drain on paper towels and serve hot with dipping sauce.",
+                    "rating": 4.8,
+                    "favourite": false
+                },
+                {
+                    "name": "Matcha Latte",
+                    "image": "https://lovemischka.com/wp-content/uploads/2022/10/FT-Matcha-Latte-Recipe-Hot.jpg",
+                    "ingredients": [
+                        "1 tsp matcha powder",
+                        "1 tbsp hot water",
+                        "1 cup milk",
+                        "1 tbsp honey"
+                    ],
+                    "method": "1. In a bowl, whisk together matcha powder and hot water until smooth. \n2. In a small pot, heat milk and honey over medium heat until hot but not boiling. \n3. Pour milk mixture into the bowl with matcha and whisk until frothy. \n4. Pour into a mug and serve hot.",
+                    "rating": 4.6,
                     "favourite": false
                 }
             ],
@@ -127,40 +172,50 @@
             "experience": 15,
             "recipes": [
                 {
-                    "name": "Beef Burger",
+                    "name": "Chicken Teriyaki",
+                    "image": "https://jasmineandtea.com/wp-content/uploads/2021/07/chicken-teriyaki-recipe.jpg",
                     "ingredients": [
-                        "500g minced beef",
-                        "1 onion",
-                        "1 egg",
-                        "1/2 cup breadcrumbs",
-                        "1 tsp salt",
-                        "1 tsp black pepper",
-                        "4 burger buns",
-                        "4 slices of cheese",
-                        "Lettuce, tomato, and condiments of your choice"
+                        "4 boneless, skinless chicken breasts",
+                        "1/2 cup soy sauce",
+                        "1/4 cup mirin",
+                        "1/4 cup sake",
+                        "2 tbsp brown sugar",
+                        "1 tbsp grated ginger",
+                        "1 clove garlic, minced",
+                        "1 tbsp vegetable oil"
                     ],
-                    "method": "1. In a bowl, mix together the minced beef, onion, egg, breadcrumbs, salt and pepper. \n2. Divide the mixture into 4 equal portions and shape them into patties. \n3. Heat a grill or frying pan over medium-high heat. \n4. Cook the patties for 3-4 minutes on each side, or until cooked to your liking. \n5. Toast the burger buns and place a slice of cheese on each patty. \n6. Assemble the burgers with lettuce, tomato, and condiments of your choice. \n7. Serve hot.",
-                    "rating": 4.6,
+                    "method": "1. In a small bowl, whisk together soy sauce, mirin, sake, brown sugar, ginger, and garlic. \n2. Heat vegetable oil in a large pan over medium-high heat. \n3. Add chicken breasts and cook for 5-6 minutes on each side, until browned. \n4. Pour the teriyaki sauce over the chicken and continue cooking for another 2-3 minutes, until the sauce thickens and the chicken is cooked through. \n5. Serve hot with steamed rice and vegetables.",
+                    "rating": 4.9,
                     "favourite": false
                 },
                 {
-                    "name": "Fish Tacos",
+                    "name": "Sushi Rolls",
+                    "image": "https://www.yummyhealthyeasy.com/wp-content/uploads/2018/04/california-sushi-rolls-square.jpg",
                     "ingredients": [
-                        "500g white fish fillets",
-                        "1/2 cup flour",
-                        "1 tsp paprika",
-                        "1 tsp cumin",
-                        "1 tsp garlic powder",
-                        "1/2 tsp salt",
-                        "1/4 tsp black pepper",
-                        "1/2 cup beer",
-                        "1 egg",
-                        "1/2 cup breadcrumbs",
-                        "8 small tortillas",
-                        "Lettuce, tomato, and salsa of your choice"
+                        "2 cups sushi rice",
+                        "2 cups water",
+                        "1/4 cup rice vinegar",
+                        "2 tbsp sugar",
+                        "1 tsp salt",
+                        "4 sheets nori",
+                        "Assorted fillings (e.g. avocado, cucumber, crab meat, smoked salmon)"
                     ],
-                    "method": "1. Cut the fish fillets into small pieces. \n2. In a bowl, mix together the flour, paprika, cumin, garlic powder, salt and pepper. \n3. In another bowl, whisk together the beer and egg. \n4. Dip the fish pieces into the flour mixture, then into the beer mixture, and finally into the breadcrumbs. \n5. Heat some oil in a pan over medium-high heat. \n6. Fry the fish pieces for 2-3 minutes on each side, or until golden brown. \n7. Warm the tortillas in the oven or microwave. \n8. Assemble the tacos with lettuce, tomato, and salsa of your choice. \n9. Serve hot.",
-                    "rating": 4.4,
+                    "method": "1. Rinse sushi rice in cold water until the water runs clear. \n2. In a pot, combine rice and water and bring to a boil. \n3. Reduce heat to low, cover, and simmer for 18-20 minutes. \n4. In a small bowl, whisk together rice vinegar, sugar, and salt. \n5. Transfer cooked rice to a large bowl and add the vinegar mixture, stirring gently to combine. \n6. Lay a sheet of nori on a sushi mat or piece of plastic wrap. \n7. Spread a thin layer of rice over the nori, leaving a 1-inch border at the top. \n8. Add fillings in a line across the center of the rice. \n9. Roll the sushi tightly, using the mat or plastic wrap to help. \n10. Repeat with remaining nori and fillings. \n11. Slice sushi rolls into bite-sized pieces and serve with soy sauce and wasabi.",
+                    "rating": 4.7,
+                    "favourite": false
+                },
+                {
+                    "name": "Mochi Ice Cream",
+                    "image": "https://kirbiecravings.com/wp-content/uploads/2016/09/mochi-ice-cream-033.jpg",
+                    "ingredients": [
+                        "1 cup mochiko (sweet rice flour)",
+                        "1/4 cup sugar",
+                        "1 cup water",
+                        "Cornstarch for dusting",
+                        "Ice cream in assorted flavors"
+                    ],
+                    "method": "1. In a bowl, whisk together mochiko, sugar, and water until smooth. \n2. Microwave the mixture for 2-3 minutes, stirring every 30 seconds, until it forms a smooth, sticky dough. \n3. Dust a work surface with cornstarch and roll out the dough to 1/4-inch thickness. \n4. Cut the dough into circles using a cookie cutter or glass. \n5. Place a small scoop of ice cream in the center of each circle and wrap the dough around it, pinching the edges to seal. \n6. Freeze the mochi ice cream for at least 2 hours before serving.",
+                    "rating": 4.5,
                     "favourite": false
                 }
             ],
@@ -172,37 +227,71 @@
             "experience": 7,
             "recipes": [
                 {
-                    "name": "Mushroom Risotto",
+                    "name": "Tonkatsu",
+                    "image": "https://example.com/tonkatsu.jpg",
                     "ingredients": [
-                        "1 cup arborio rice",
-                        "4 cups chicken or vegetable broth",
-                        "1 onion",
-                        "2 cloves garlic",
-                        "1 cup sliced mushrooms",
-                        "1/2 cup grated parmesan cheese",
-                        "2 tbsp butter",
-                        "2 tbsp olive oil",
-                        "Salt and pepper to taste"
+                        "4 boneless pork chops",
+                        "1/2 cup all-purpose flour",
+                        "2 eggs, beaten",
+                        "1 cup panko breadcrumbs",
+                        "Salt and pepper to taste",
+                        "Vegetable oil for frying",
+                        "Tonkatsu sauce for serving"
                     ],
-                    "method": "1. In a pot, heat the broth over low heat. \n2. In a separate pot, heat the olive oil over medium heat. \n3. Add the onion and garlic and cook until softened. \n4. Add the rice and stir until coated in the oil. \n5. Add a ladleful of broth to the rice and stir until absorbed. \n6. Continue adding broth, one ladleful at a time, and stirring until absorbed. \n7. After about 20 minutesor when the rice is cooked but still slightly firm to the bite. \n. In a separate pan, sauté the mushrooms in butter until tender. \n9. Add the mushrooms and parmesan cheese to the rice and stir until combined. \n10. Season with salt and pepper to taste. \n11. Serve hot.",
-                    "rating": 4.2,
+                    "method": "1. Season pork chops with salt and pepper. \n2. Dredge each pork chop in flour, shaking off excess. \n3. Dip in beaten eggs, then coat in panko breadcrumbs. \n4. Heat vegetable oil in a large pan over medium-high heat. \n5. Fry pork chops for 3-4 minutes on each side, until golden brown and cooked through. \n6. Drain on paper towels. \n7. Serve hot with tonkatsu sauce.",
+                    "rating": 4.8,
+                    "favourite": true
+                },
+                {
+                    "name": "Miso Glazed Eggplant",
+                    "image": "https://example.com/miso-glazed-eggplant.jpg",
+                    "ingredients": [
+                        "2 large eggplants, sliced in half lengthwise",
+                        "1/4 cup miso paste",
+                        "2 tbsp mirin",
+                        "2 tbsp sake",
+                        "2 tbsp sugar",
+                        "1 tbsp vegetable oil",
+                        "2 green onions, sliced"
+                    ],
+                    "method": "1. Preheat oven to 400°F. \n2. In a small bowl, whisk together miso paste, mirin, sake, and sugar. \n3. Brush the cut side of each eggplant half with vegetable oil. \n4. Place eggplant halves cut side down on a baking sheet. \n5. Bake for 15-20 minutes, until tender. \n6. Brush the miso glaze over the eggplant halves and return to the oven. \n7. Bake for another 5-10 minutes, until the glaze is caramelized and bubbly. \n8. Sprinkle with green onions and serve hot.",
+                    "rating": 4.7,
                     "favourite": false
                 },
                 {
-                    "name": "Chocolate Brownies",
+                    "name": "Green Tea Latte",
+                    "image": "https://example.com/green-tea-latte.jpg",
                     "ingredients": [
-                        "1 cup butter",
-                        "2 cups sugar",
-                        "4 eggs",
-                        "1 tsp vanilla extract",
-                        "3/4 cup cocoa powder",
-                        "1 cup flour",
-                        "1/2 tsp salt",
-                        "1/2 tsp baking powder"
+                        "1 tsp matcha powder",
+                        "1 tbsp hot water",
+                        "1 cup milk",
+                        "1 tbsp honey"
                     ],
-                    "method": "1. Preheat the oven to 180°C. \n2. In a bowl, cream together the butter and sugar until light and fluffy. \n3. Beat in the eggs one at a time, then stir in the vanilla extract. \n4. In a separate bowl, whisk together the cocoa powder, flour, salt and baking powder. \n5. Gradually add the dry ingredients to the butter mixture, stirring until well combined. \n6. Pour the batter into a greased baking dish. \n7. Bake for 25-30 minutes, or until a toothpick inserted into the center comes out clean. \n8. Let the brownies cool before cutting into squares. \n9. Serve and enjoy!",
-                    "rating": 4.5,
-                    "favourite": false
+                    "method": "1. In a bowl, whisk together matcha powder and hot water until smooth. \n2. In a small pot, heat milk and honey over medium heat until hot but not boiling. \n3. Pour milk mixture into the bowl with matcha and whisk until frothy. \n4. Pour into a mug and serve hot.",
+                    "rating": 4.6,
+                    "favourite": true
+                },
+                {
+                    "name": "Okonomiyaki",
+                    "image": "https://example.com/okonomiyaki.jpg",
+                    "ingredients": [
+                        "2 cups all-purpose flour",
+                        "2 tsp baking powder",
+                        "1/2 tsp salt",
+                        "1 1/2 cups water",
+                        "4 cups shredded cabbage",
+                        "4 green onions, sliced",
+                        "1/2 cup tenkasu (tempura scraps)",
+                        "1/2 cup cooked shrimp, chopped",
+                        "4 slices bacon, cooked and crumbled",
+                        "Okonomiyaki sauce",
+                        "Kewpie mayonnaise",
+                        "Aonori (dried seaweed flakes)",
+                        "Katsuobushi (dried bonito flakes)"
+                    ],
+                    "method": "1. In a large bowl, whisk together flour, baking powder, salt, and water until smooth. \n2. Stir in shredded cabbage, green onions, tenkasu, shrimp, and bacon. \n3. Heat a large nonstick pan over medium heat. \n4. Pour the batter into the pan, spreading it out to form a large pancake. \n5. Cook for 5-7 minutes on each side, until golden brown and cooked through. \n6. Drizzle with okonomiyaki sauce and kewpie mayonnaise. \n7. Sprinkle with aonori and katsuobushi. \n8. Serve hot.",
+                    "rating": 4.9,
+                    "favourite": true
                 }
             ],
             "likes": 70
