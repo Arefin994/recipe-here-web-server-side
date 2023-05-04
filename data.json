@@ -39,7 +39,7 @@
                     ],
                     "method": "1. In a small bowl, whisk together soy sauce, mirin, sake, brown sugar, ginger, and garlic. \n2. Heat vegetable oil in a large pan over medium-high heat. \n3. Add salmon fillets and cook for 2-3 minutes on each side. \n4. Pour the teriyaki sauce over the salmon and continue cooking for another 2-3 minutes, until the sauce thickens and the salmon is cooked through. \n5. Serve hot with steamed rice and vegetables.",
                     "rating": 4.9,
-                    "favourite": true
+                    "favourite": false
                 }
             ],
             "likes": 100
@@ -68,7 +68,7 @@
                     ],
                     "method": "1. In a small bowl, whisk together soy sauce, mirin, sake, and sugar. \n2. Heat vegetable oil in a large pan over medium-high heat. \n3. Add beef and cook for 2-3 minutes, until browned. \n4. Add onion, scallions, and shiitake mushrooms and cook for another 2-3 minutes. \n5. Add the soy sauce mixture and water and bring to a boil. \n6. Reduce heat to low and add tofu and spinach. \n7. Simmer for 5-7 minutes, until the vegetables are tender and the sauce has thickened. \n8. Serve hot with steamed rice.",
                     "rating": 4.8,
-                    "favourite": true
+                    "favourite": false
                 },
                 {
                     "name": "Matcha Cheesecake",
@@ -228,7 +228,7 @@
             "recipes": [
                 {
                     "name": "Tonkatsu",
-                    "image": "https://example.com/tonkatsu.jpg",
+                    "image": "https://www.kitchensanctuary.com/wp-content/uploads/2015/10/katsudon-Pork-square-FS.jpg",
                     "ingredients": [
                         "4 boneless pork chops",
                         "1/2 cup all-purpose flour",
@@ -240,11 +240,11 @@
                     ],
                     "method": "1. Season pork chops with salt and pepper. \n2. Dredge each pork chop in flour, shaking off excess. \n3. Dip in beaten eggs, then coat in panko breadcrumbs. \n4. Heat vegetable oil in a large pan over medium-high heat. \n5. Fry pork chops for 3-4 minutes on each side, until golden brown and cooked through. \n6. Drain on paper towels. \n7. Serve hot with tonkatsu sauce.",
                     "rating": 4.8,
-                    "favourite": true
+                    "favourite": false
                 },
                 {
                     "name": "Miso Glazed Eggplant",
-                    "image": "https://example.com/miso-glazed-eggplant.jpg",
+                    "image": "https://norecipes.com/wp-content/uploads/2021/07/miso-glazed-eggplant-dengaku-003.jpg",
                     "ingredients": [
                         "2 large eggplants, sliced in half lengthwise",
                         "1/4 cup miso paste",
@@ -260,7 +260,7 @@
                 },
                 {
                     "name": "Green Tea Latte",
-                    "image": "https://example.com/green-tea-latte.jpg",
+                    "image": "https://www.ohhowcivilized.com/wp-content/uploads/matcha-green-tea-latte-recipe.jpg",
                     "ingredients": [
                         "1 tsp matcha powder",
                         "1 tbsp hot water",
@@ -269,11 +269,11 @@
                     ],
                     "method": "1. In a bowl, whisk together matcha powder and hot water until smooth. \n2. In a small pot, heat milk and honey over medium heat until hot but not boiling. \n3. Pour milk mixture into the bowl with matcha and whisk until frothy. \n4. Pour into a mug and serve hot.",
                     "rating": 4.6,
-                    "favourite": true
+                    "favourite": false
                 },
                 {
                     "name": "Okonomiyaki",
-                    "image": "https://example.com/okonomiyaki.jpg",
+                    "image": "https://www.spoonforkbacon.com/wp-content/uploads/2021/09/okonomiyaki-recipe-card.jpg",
                     "ingredients": [
                         "2 cups all-purpose flour",
                         "2 tsp baking powder",
@@ -291,7 +291,7 @@
                     ],
                     "method": "1. In a large bowl, whisk together flour, baking powder, salt, and water until smooth. \n2. Stir in shredded cabbage, green onions, tenkasu, shrimp, and bacon. \n3. Heat a large nonstick pan over medium heat. \n4. Pour the batter into the pan, spreading it out to form a large pancake. \n5. Cook for 5-7 minutes on each side, until golden brown and cooked through. \n6. Drizzle with okonomiyaki sauce and kewpie mayonnaise. \n7. Sprinkle with aonori and katsuobushi. \n8. Serve hot.",
                     "rating": 4.9,
-                    "favourite": true
+                    "favourite": false
                 }
             ],
             "likes": 70
@@ -302,37 +302,57 @@
             "experience": 5,
             "recipes": [
                 {
-                    "name": "Beef Stir-Fry",
+                    "name": "Yakisoba",
+                    "image": "https://summeryule.com/wp-content/uploads/2020/12/beef-yakisoba.jpeg",
                     "ingredients": [
-                        "500g beef sirloin",
-                        "1 red pepper",
-                        "1 yellow pepper",
-                        "1 green pepper",
-                        "1 onion",
-                        "2 cloves garlic",
-                        "1 tbsp soy sauce",
-                        "1 tsp honey",
-                        "1 tsp cornstarch",
-                        "1 tsp ginger powder",
-                        "Salt and pepper to taste"
+                        "1 lb yakisoba noodles",
+                        "1/2 lb boneless pork loin, sliced",
+                        "1 onion, sliced",
+                        "1 carrot, julienned",
+                        "1/2 head cabbage, sliced",
+                        "1/2 cup yakisoba sauce",
+                        "1 tbsp vegetable oil"
                     ],
-                    "method": "1. Cut the beef into thin strips. \n2. Slice the peppers and onion. \n3. In a bowl, mix together the soy sauce, honey, cornstarch, ginger powder, salt, and pepper. \n4. In a wok or large skillet, heat some oil over high heat. \n5. Add the beef and stir-fry for 2-3 minutes until browned. \n6. Add the garlic and stir-fry for another minute. \n7. Add the peppers and onion and stir-fry for 2-3 minutes until tender. \n8. Pour in the soy sauce mixture and stir-fry for another minute until the sauce thickens. \n9. Serve over rice.",
+                    "method": "1. Cook yakisoba noodles according to package instructions. \n2. Heat vegetable oil in a large pan over medium-high heat. \n3. Add pork loin and cook for 2-3 minutes, until browned. \n4. Add onion, carrot, and cabbage and cook for another 2-3 minutes. \n5. Add cooked yakisoba noodles and yakisoba sauce and stir to combine. \n6. Cook for another 2-3 minutes, until heated through. \n7. Serve hot.",
+                    "rating": 4.8,
+                    "favourite": false
+                },
+                {
+                    "name": "Green Tea Ice Cream",
+                    "image": "https://silkroadrecipes.com/wp-content/uploads/2022/02/Green-Tea-Ice-Cream-No-Churn-square.jpg",
+                    "ingredients": [
+                        "2 cups heavy cream",
+                        "1 cup whole milk",
+                        "3/4 cup sugar",
+                        "1/4 cup matcha powder",
+                        "Pinch of salt",
+                        "6 egg yolks"
+                    ],
+                    "method": "1. In a pot, heat heavy cream, whole milk, sugar, matcha powder, and salt over medium heat until hot but not boiling. \n2. In a bowl, whisk together egg yolks. \n3. Slowly pour the hot milk mixture into the bowl with the egg yolks, whisking constantly. \n4. Pour the mixture back into the pot and cook over low heat, stirring constantly, until thickened. \n5. Strain the mixture through a fine-mesh sieve into a bowl. \n6. Chill the mixture in the refrigerator for at least 2 hours. \n7. Churn the mixture in an ice cream maker according to manufacturer's instructions. \n8. Freeze the ice cream for at least 2 hours before serving.",
                     "rating": 4.7,
                     "favourite": false
                 },
                 {
-                    "name": "Creamy Mushroom Pasta",
+                    "name": "Chicken Katsu Curry",
+                    "image": "https://production-media.gousto.co.uk/cms/mood-image/769_Chicken-Katsu-Curry-3099-1623064806360.jpg",
                     "ingredients": [
-                        "500g pasta",
-                        "500g mushrooms",
-                        "2 cloves garlic",
-                        "1 cup heavy cream",
-                        "1/2 cup grated parmesan cheese",
-                        "1 tsp dried thyme",
-                        "Salt and pepper to taste"
+                        "4 boneless, skinless chicken breasts",
+                        "1/2 cup all-purpose flour",
+                        "2 eggs, beaten",
+                        "1 cup panko breadcrumbs",
+                        "Salt and pepper to taste",
+                        "Vegetable oil for frying",
+                        "2 tbsp butter",
+                        "1 onion, chopped",
+                        "2 cloves garlic, minced",
+                        "2 tbsp curry powder",
+                        "2 tbsp all-purpose flour",
+                        "2 cups chicken broth",
+                        "1 tbsp honey",
+                        "1 tbsp soy sauce"
                     ],
-                    "method": "1. Cook the pasta according to package instructions. \n2. Slice the mushrooms and mince the garlic. \n3. In a pan, sauté the mushrooms over medium heat until tender. \n4. Add the garlic and cook for another minute. \n5. Pour in the heavy cream and add the thyme, salt, and pepper. \n6. Let simmer until the sauce thickens. \n7. Add the parmesan cheese and stir until melted. \n8. Serve the sauce over the cooked pasta.",
-                    "rating": 4.4,
+                    "method": "1. Season chicken breasts with salt and pepper. \n2. Dredge each chicken breast in flour, shaking off excess. \n3. Dip in beaten eggs, then coat in panko breadcrumbs. \n4. Heat vegetable oil in a large pan over medium-high heat. \n5. Fry chicken breasts for 3-4 minutes on each side, until golden brown and cooked through. \n6. Drain on paper towels. \n7. In a pot, melt butter over medium heat. \n8. Add onion and garlic and cook for 2-3 minutes, until softened. \n9. Add curry powder and flour and cook for another 2-3 minutes. \n10. Gradually whisk in chicken broth, honey, and soy sauce. \n11. Simmer for 10-15 minutes, until the sauce has thickened. \n12. Serve chicken katsu with curry sauce and steamed rice.",
+                    "rating": 4.9,
                     "favourite": false
                 }
             ],
